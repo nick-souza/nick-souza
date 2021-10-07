@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" />
-<!-- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java#007300.svg" />
+
+
 
 <!--
 **nsds26/nsds26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
