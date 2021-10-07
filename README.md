@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img height="32" width="32" style="color:red" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg"/>
+<img height="32" width="32" style="color:red;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg"/>
 
 
 
