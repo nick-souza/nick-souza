@@ -1,6 +1,8 @@
-### Hi there 👋
+<h3>Nicolas Sa de Souza 👋</h3>
 
-<img height="32" width="32" style="color:red;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg"/>
+- ⚡ Learning Java, Spring Boot and Angular
+
+- <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" style="max-width: 100%;">
 
 
 
