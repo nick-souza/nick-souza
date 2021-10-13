@@ -1,11 +1,10 @@
 <h2> Hey there! I'm Nicolas Sa de Souza</h2>
 
-<h3>About Me </h3>
+<h3>🌱 &nbsp; About Me </h3>
 
 - 🎓 &nbsp; Estudande de Sistemas de Informação.
 
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
