@@ -18,8 +18,8 @@ Junior full-stack developer.
 ##
 
 <a href="https://github.com/nsds26">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nsds26&theme=dark&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsds26&theme=dark&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nick-souza&theme=dark&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick-souza&theme=dark&layout=compact" />
 </a>
 
 
