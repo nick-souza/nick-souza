@@ -1,6 +1,6 @@
 <h2>Hey there! I'm Nicolas Sa de Souza</h2>
 
-Junior full-stack developer.
+FullStack Software Developer.
 
 <!-- ## -->
 
